@@ -17,7 +17,7 @@ Dependencies
 3. Data
 
 Located under directory "data", we evaluated our model on a multigenre emotion corpus consist of 4 genres as they are described in 
-section 2 of our paper. 3 enres (blog post, movie review, news title) are available at the moment, and the 4th genre (Tweets) will 
+section 2 of our paper. 3 genres (blog post, movie review, news title) are available at the moment, and the 4th genre (Tweets) will 
 be available by end of 2018. 
 
 File/Folder structure is as follows: 
