@@ -35,6 +35,28 @@ However, the model is flexible enough to adopt a new genre of your own.
 
 4. Usage
 
-Our model is implemented in jmte.py. 
+Our model is implemented in jmte.py located in jmte folder.
+
+Follow the instruction in the python file to use it with your dataset. We proposed a multi-task model with auxiliary layer for mix genre dataset.
+We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux.py, this version has no auxiliary layer and can be used with any genre.
+
+- Input training files: training_text.txt, training_label.txt, and training_clause.txt
+-- We provide a sample of how your input text, label, and clause model should be formated. Numeric labels are stand for: 
+     0: anger
+	 1: anticipation
+     2: disgust
+     3: fear
+     4: joy
+     5: sadness
+     6: surprise
+     7: trust
+- Input test files: test_text.txt, test_label_.txt, test_clause.txt; numeric labels are the same.
+
+- Output predicted tags: depends on which code you run there will be output (predicted tags) per task:
+-- example: task_1_noaux_results.txt
+
+- There will be a pickle file, this file is the tokenizer at the prediction time
+
+**** Note: In both python file look for handle "Important Note", this handle points you to simply change the name of the input files and indexes of the arrays based on the size of your input files
 	
 
