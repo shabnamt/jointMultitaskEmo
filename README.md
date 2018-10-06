@@ -56,7 +56,7 @@ We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux
 - Output predicted tags: depends on which code you run there will be output (predicted tags) per task:
 -- example: task_1_noaux_results.txt
 
-- There will be a pickle file, this file is the tokenizer to preprocess the test files at the prediction time.
+- There will be a pickle file, this file is the tokenizer to preprocess the test files at the prediction time. They will be overwritten if you run the code with new datasets.
 
 **** Note: In both python file look for handle "Important Note", this handle points you to simply change the name of the input files and indexes of the arrays based on the size of your input files
 	
