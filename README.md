@@ -50,12 +50,13 @@ We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux
      5: sadness
      6: surprise
      7: trust
+     
 - Input test files: test_text.txt, test_label_.txt, test_clause.txt; numeric labels are the same.
 
 - Output predicted tags: depends on which code you run there will be output (predicted tags) per task:
 -- example: task_1_noaux_results.txt
 
-- There will be a pickle file, this file is the tokenizer at the prediction time
+- There will be a pickle file, this file is the tokenizer to preprocess the test files at the prediction time.
 
 **** Note: In both python file look for handle "Important Note", this handle points you to simply change the name of the input files and indexes of the arrays based on the size of your input files
 	
