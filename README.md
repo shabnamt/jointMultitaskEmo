@@ -41,14 +41,14 @@ Follow the instruction in the python file to use it with your dataset. We propos
 We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux.py, this version has no auxiliary layer and can be used with any genre.
 
 - Input training files: training_text.txt, training_label.txt, and training_clause.txt
--- We provide a sample of how your input text, label, and clause model should be formated. Numeric labels are stand for: 
-     0: anger
-	 1: anticipation
-     2: disgust
-     3: fear
-     4: joy
-     5: sadness
-     6: surprise
+-- We provide a sample of how your input text, label, and clause model should be formated. Numeric labels are as follows: 
+     0: anger, 
+	 1: anticipation, 
+     2: disgust, 
+     3: fear, 
+     4: joy, 
+     5: sadness, 
+     6: surprise, 
      7: trust
      
 - Input test files: test_text.txt, test_label_.txt, test_clause.txt; numeric labels are the same.
