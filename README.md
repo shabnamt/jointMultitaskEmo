@@ -1,4 +1,4 @@
-# jointMultitaskEmo
+# joint Multitask Emotion
 
 # Introduction
 
