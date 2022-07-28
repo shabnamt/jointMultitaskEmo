@@ -63,14 +63,14 @@ We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux
 If you have any questions please contact stafresh@umd.edu. 
 ## Citation
 Join model of Emotions Please cite this paper. 
-@inproceedings{tafreshi2018emotion,
-  title={Emotion detection and classification in a multigenre corpus with joint multi-task deep learning},
-  author={Tafreshi, Shabnam and Diab, Mona},
-  booktitle={Proceedings of the 27th international conference on computational linguistics},
-  pages={2905--2913},
-  year={2018}
+@inproceedings{tafreshi2018emotion,  
+  title={Emotion detection and classification in a multigenre corpus with joint multi-task deep learning},  
+  author={Tafreshi, Shabnam and Diab, Mona},  
+  booktitle={Proceedings of the 27th international conference on computational linguistics},  
+  pages={2905--2913},  
+  year={2018}. 
 }. 
-Data usage, please cite this paper.   
+Data usage, please cite this paper. 
 @inproceedings{tafreshi2018sentence,  
   title={Sentence and clause level emotion annotation, detection, and classification in a multi-genre corpus},  
   author={Tafreshi, Shabnam and Diab, Mona},  
