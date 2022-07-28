@@ -75,5 +75,5 @@ Data usage, please cite this paper.
   title={Sentence and clause level emotion annotation, detection, and classification in a multi-genre corpus},  
   author={Tafreshi, Shabnam and Diab, Mona},  
   booktitle={Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},  
-  year={2018}. 
+  year={2018}
 }  
