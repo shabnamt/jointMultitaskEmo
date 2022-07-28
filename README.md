@@ -1,20 +1,20 @@
 # jointMultitaskEmo
 
-1. Introduction
+# Introduction
 
 This repo contains an implementation of JMTE described in the paper Emotion Detection and Classification in a 
 Multigenre Corpus with Joint Multi-Task Deep Learning by Shabnam Tafreshi and Mona Diab, COLING 2018
 
 Dependencies
 
-2. Dependencies
+# Dependencies
 
 	- Keras 2.0.8
 	- Python 3.6
 	- NumPy
 	
 				
-3. Data
+# Data
 
 Located under directory "data", we evaluated our model on a multigenre emotion corpus consist of 4 genres as they are described in 
 section 2 of our paper. 3 genres (blog post, movie review, news title) are available at the moment, and the 4th genre (Tweets) will 
@@ -33,7 +33,7 @@ File/Folder structure is as follows:
 **Note: Due to Tweeter set not being available to us, the paper results are not verifiable at the moment. The training and test sets are just samples
 However, the model is flexible enough to adopt a new genre of your own.
 
-4. Usage
+# Usage
 
 Our model is implemented in jmte.py located in jmte folder.
 
@@ -60,4 +60,13 @@ We also provide the multi-task model with no auxiliary layer in jmte_with_no_aux
 
 **** Note: In both python file look for handle "Important Note", this handle points you to simply change the name of the input files and indexes of the arrays based on the size of your input files
 	
-
+# Contact
+If you have any questions please contact stafresh@umd.edu. 
+## Citation
+@inproceedings{tafreshi2018emotion,
+  title={Emotion detection and classification in a multigenre corpus with joint multi-task deep learning},
+  author={Tafreshi, Shabnam and Diab, Mona},
+  booktitle={Proceedings of the 27th international conference on computational linguistics},
+  pages={2905--2913},
+  year={2018}
+}
