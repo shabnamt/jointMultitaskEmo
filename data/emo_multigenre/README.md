@@ -1,6 +1,6 @@
 # Multigenre Corpus
 
-1. Introduction
+## Introduction
 
 Multigenre corpus is a combination of 3 genres: blog posts, news headlines, and movie reviews.
 Blog posts and news headlines were annotated by 6 basic emotion from Ekman (happy, sad, surprise, fear, anger, disgust). 
@@ -14,7 +14,7 @@ Emotion tags are as follows:
 
 	Tagset = {joy, trust, anticipation, surprise, fear, anger, sandness, disgust}
 	 
-2. File structure
+## File structure
 
 	- emotion_multigenre_corpus_setences.txt
 	
@@ -27,11 +27,11 @@ Emotion tags are as follows:
 						1546	234_1	I had such wonderful time learning about NLP	joy				blog
 						1547	234_2	but now I must stop	                            no-emotion		blog
 
-3. Contact
+## Contact
 
 You can send your emails to Shabnam Tafreshi, email: <shabnamt@gwu.edu>, if you have questions, suggestions, or concerns. 
 
-4. Citation
+## Citation
 
 Please cite the following paper:
 
