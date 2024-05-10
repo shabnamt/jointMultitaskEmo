@@ -36,8 +36,13 @@ You can send your emails to Shabnam Tafreshi, email: <shabnamt@gwu.edu>, if you 
 Please cite the following paper:
 
 @inproceedings{tafreshi2018sentence,
+
   title={Sentence and clause level emotion annotation, detection, and classification in a multi-genre corpus},
+  
   author={Tafreshi, Shabnam and Diab, Mona},
+  
   booktitle={Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
+  
   year={2018}
+  
 }
