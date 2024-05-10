@@ -29,7 +29,7 @@ Emotion tags are as follows:
 
 ## Contact
 
-You can send your emails to Shabnam Tafreshi, email: <shabnamt@gwu.edu>, if you have questions, suggestions, or concerns. 
+You can send your emails to Shabnam Tafreshi, email: <shabnam.tafreshi@gmail.com>, if you have questions, suggestions, or concerns. 
 
 ## Citation
 
